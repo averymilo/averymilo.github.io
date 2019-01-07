@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Sarabun:400,400i,700|Slabo+27px');
+
+body {
+  background-color: white;
+  color: #333333;
+  font-family: "Sarabun", sans-serif;
+  font-style: regular 400;
+  width: 1000px;
+}
+
+hr {
+  border: 1px solid;
+  color: #ffbc5f;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+h1 {
+  color: #478e8c;
+  font-family: "Slabo 27px", serif;
+  text-align: center;
+  padding: 10px 10px 0px 10px;
+  margin: 50px 300px 0px 300px;
+}
+
+h2 {
+  color: #555555;
+  font-family: "Slabo 27px", serif;
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+h3 {
+  color: #478e8c;
+  font-family: "Sarabun", sans-serif;
+  font-style: regular 400;
+  font-size: 26px;
+  margin-left: 100px;
+}
+
+h4 {
+  color: #478e8c;
+  font-family: "Sarabun", sans-serif;
+  font-style: regular 400 italic;
+  font-size: 18px;
+  padding-bottom: 0px;
+  margin-bottom: 3px;
+  margin-left: 100px;
+}
+
+h5 {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-left: 100px;
+  width: 790px;
+}
+
+#Hebron {
+  width: 600px;
+  display: block;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+#Guinness {
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
+.contact {
+  text-align: center;
+  padding-left: 40px;
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
+.skills {
+  margin-left: 100px;
+}
+
+ul {
+  padding-bottom: 30px;
+}
